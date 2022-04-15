@@ -1,6 +1,8 @@
 #include "sting"
-a=0;
-b=0;
+int a=0;
+int b=0;
+int c;
 printf("Donner un numéro \n" );
 if (a>b)
-a++
+a++;
+c=a+b;
